@@ -20,6 +20,7 @@ https://arxiv.org/abs/2305.18292
 https://showlab.github.io/Mix-of-Show/
 
 ## Output
+![Screenshot 2023-12-09 122202](https://github.com/camenduru/Mix-of-Show-colab/assets/54370274/b7a94fde-3aae-4444-acb5-c1d6ae0eb0ae)
 
 ## Sponsor
 https://modelslab.com
