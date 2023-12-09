@@ -11,6 +11,9 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Mix-of-Show-colab/blob/main/Mix_of_Show_hermione_colab.ipynb) | Mix_of_Show_hermione_colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Mix-of-Show-colab/blob/main/Mix_of_Show_potter_colab.ipynb) | Mix_of_Show_potter_colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Mix-of-Show-colab/blob/main/Mix_of_Show_thanos_colab.ipynb) | Mix_of_Show_thanos_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Mix-of-Show-colab/blob/main/Mix_of_Show_hina_colab.ipynb) | Mix_of_Show_hina_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Mix-of-Show-colab/blob/main/Mix_of_Show_kaori_colab.ipynb) | Mix_of_Show_kaori_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Mix-of-Show-colab/blob/main/Mix_of_Show_tezuka_colab.ipynb) | Mix_of_Show_tezuka_colab
 
 ## Main Repo
 https://github.com/TencentARC/Mix-of-Show
