@@ -19,6 +19,9 @@ https://arxiv.org/abs/2305.18292
 ## Page
 https://showlab.github.io/Mix-of-Show/
 
+## Models
+https://huggingface.co/camenduru/Mix-of-Show/tree/main/single_concept_model
+
 ## Output
 ![Screenshot 2023-12-09 122202](https://github.com/camenduru/Mix-of-Show-colab/assets/54370274/b7a94fde-3aae-4444-acb5-c1d6ae0eb0ae) <br />
 
