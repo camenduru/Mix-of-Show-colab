@@ -16,6 +16,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Mix-of-Show-colab/blob/main/Mix_of_Show_tezuka_colab.ipynb) | Mix_of_Show_tezuka_colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Mix-of-Show-colab/blob/main/Mix_of_Show_fused_single_anime_colab.ipynb) | Mix_of_Show_fused_single_anime_colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Mix-of-Show-colab/blob/main/Mix_of_Show_fused_multi_anime_colab.ipynb) | Mix_of_Show_fused_multi_anime_colab (Pro Colab 😭)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Mix-of-Show-colab/blob/main/Mix_of_Show_fused_single_real_colab.ipynb) | Mix_of_Show_fused_single_real_colab (Pro Colab 😭)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Mix-of-Show-colab/blob/main/fuse_colab.ipynb) | fuse_colab (Pro Colab 😭)
 
 ## Main Repo
