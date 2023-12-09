@@ -33,5 +33,21 @@ Alpha 0.0 [1002_1_EDLoRA_kaori_Anyv4_B4_Repeat500](https://huggingface.co/camend
 Alpha 0.7 [1002_1_EDLoRA_kaori_Anyv4_B4_Repeat500](https://huggingface.co/camenduru/Mix-of-Show/blob/main/single_concept_model/1002_1_EDLoRA_kaori_Anyv4_B4_Repeat500/visualization/PromptDataset/G_7.5_S_50---Iters-latest_Alpha-0.7.jpg) <br />
 Alpha 1.0 [1002_1_EDLoRA_kaori_Anyv4_B4_Repeat500](https://huggingface.co/camenduru/Mix-of-Show/blob/main/single_concept_model/1002_1_EDLoRA_kaori_Anyv4_B4_Repeat500/visualization/PromptDataset/G_7.5_S_50---Iters-latest_Alpha-1.0.jpg) <br />
 
+Alpha 0.0 [1003_1_EDLoRA_tezuka_Anyv4_B4_Repeat500](https://huggingface.co/camenduru/Mix-of-Show/blob/main/single_concept_model/1003_1_EDLoRA_tezuka_Anyv4_B4_Repeat500/visualization/PromptDataset/G_7.5_S_50---Iters-latest_Alpha-0.jpg) <br />
+Alpha 0.7 [1003_1_EDLoRA_tezuka_Anyv4_B4_Repeat500](https://huggingface.co/camenduru/Mix-of-Show/blob/main/single_concept_model/1003_1_EDLoRA_tezuka_Anyv4_B4_Repeat500/visualization/PromptDataset/G_7.5_S_50---Iters-latest_Alpha-0.7.jpg) <br />
+Alpha 1.0 [1003_1_EDLoRA_tezuka_Anyv4_B4_Repeat500](https://huggingface.co/camenduru/Mix-of-Show/blob/main/single_concept_model/1003_1_EDLoRA_tezuka_Anyv4_B4_Repeat500/visualization/PromptDataset/G_7.5_S_50---Iters-latest_Alpha-1.0.jpg) <br />
+
+Alpha 0.0 [8101_EDLoRA_potter_Cmix_B4_Repeat500](https://huggingface.co/camenduru/Mix-of-Show/blob/main/single_concept_model/8101_EDLoRA_potter_Cmix_B4_Repeat500/visualization/PromptDataset/G_7.5_S_50---Iters-latest_Alpha-0.jpg) <br />
+Alpha 0.7 [8101_EDLoRA_potter_Cmix_B4_Repeat500](https://huggingface.co/camenduru/Mix-of-Show/blob/main/single_concept_model/8101_EDLoRA_potter_Cmix_B4_Repeat500/visualization/PromptDataset/G_7.5_S_50---Iters-latest_Alpha-0.7.jpg) <br />
+Alpha 1.0 [8101_EDLoRA_potter_Cmix_B4_Repeat500](https://huggingface.co/camenduru/Mix-of-Show/blob/main/single_concept_model/8101_EDLoRA_potter_Cmix_B4_Repeat500/visualization/PromptDataset/G_7.5_S_50---Iters-latest_Alpha-1.0.jpg) <br />
+
+Alpha 0.0 [8102_EDLoRA_hermione_Cmix_B4_Repeat500](https://huggingface.co/camenduru/Mix-of-Show/blob/main/single_concept_model/8102_EDLoRA_hermione_Cmix_B4_Repeat500/visualization/PromptDataset/G_7.5_S_50---Iters-latest_Alpha-0.jpg) <br />
+Alpha 0.7 [8102_EDLoRA_hermione_Cmix_B4_Repeat500](https://huggingface.co/camenduru/Mix-of-Show/blob/main/single_concept_model/8102_EDLoRA_hermione_Cmix_B4_Repeat500/visualization/PromptDataset/G_7.5_S_50---Iters-latest_Alpha-0.7.jpg) <br />
+Alpha 1.0 [8102_EDLoRA_hermione_Cmix_B4_Repeat500](https://huggingface.co/camenduru/Mix-of-Show/blob/main/single_concept_model/8102_EDLoRA_hermione_Cmix_B4_Repeat500/visualization/PromptDataset/G_7.5_S_50---Iters-latest_Alpha-1.0.jpg) <br />
+
+Alpha 0.0 [8103_EDLoRA_thanos_Cmix_B4_Repeat250](https://huggingface.co/camenduru/Mix-of-Show/blob/main/single_concept_model/8103_EDLoRA_thanos_Cmix_B4_Repeat250/visualization/PromptDataset/G_7.5_S_50---Iters-latest_Alpha-0.jpg) <br />
+Alpha 0.7 [8103_EDLoRA_thanos_Cmix_B4_Repeat250](https://huggingface.co/camenduru/Mix-of-Show/blob/main/single_concept_model/8103_EDLoRA_thanos_Cmix_B4_Repeat250/visualization/PromptDataset/G_7.5_S_50---Iters-latest_Alpha-0.7.jpg) <br />
+Alpha 1.0 [8103_EDLoRA_thanos_Cmix_B4_Repeat250](https://huggingface.co/camenduru/Mix-of-Show/blob/main/single_concept_model/8103_EDLoRA_thanos_Cmix_B4_Repeat250/visualization/PromptDataset/G_7.5_S_50---Iters-latest_Alpha-1.0.jpg) <br />
+
 ## Sponsor
 https://modelslab.com
