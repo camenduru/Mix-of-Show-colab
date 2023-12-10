@@ -2,7 +2,7 @@
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU <br />
 🥳 Please join my patreon community https://patreon.com/camenduru <br />
 
-## 🦒 Colab
+#### 🦒 Colab
 
 | Colab | Info
 | --- | --- |
@@ -18,19 +18,19 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Mix-of-Show-colab/blob/main/Mix_of_Show_fused_multi_real_colab.ipynb) | Mix_of_Show_fused_multi_real_colab (Pro Colab 😭)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Mix-of-Show-colab/blob/main/fuse_colab.ipynb) | fuse_colab (Pro Colab 😭)
 
-## 🧬 Code
+#### 🧬 Code
 https://github.com/TencentARC/Mix-of-Show
 
-## 📄 Paper
+#### 📄 Paper
 https://arxiv.org/abs/2305.18292
 
 ## 🌐 Page
 https://showlab.github.io/Mix-of-Show/
 
-## 📦 Model
+#### 📦 Model
 https://huggingface.co/camenduru/Mix-of-Show/tree/main/single_concept_model
 
-## 🖼 Output
+#### 🖼 Output
 ![Screenshot 2023-12-09 122202](https://github.com/camenduru/Mix-of-Show-colab/assets/54370274/b7a94fde-3aae-4444-acb5-c1d6ae0eb0ae) <br />
 
 ![photo_of_a_toy---baseline---075e325c](https://github.com/camenduru/Mix-of-Show-colab/assets/54370274/625c6092-2a5a-4f9f-87cd-198d7c95f297) <br />
