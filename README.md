@@ -2,8 +2,6 @@
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU <br />
 🥳 Please join my patreon community https://patreon.com/camenduru <br />
 
-# 🚦 WIP 🚦
-
 ## 🦒 Colab
 
 | Colab | Info
@@ -63,5 +61,5 @@ Alpha 0.0 [8103_EDLoRA_thanos_Cmix_B4_Repeat250](https://huggingface.co/camendur
 Alpha 0.7 [8103_EDLoRA_thanos_Cmix_B4_Repeat250](https://huggingface.co/camenduru/Mix-of-Show/blob/main/single_concept_model/8103_EDLoRA_thanos_Cmix_B4_Repeat250/visualization/PromptDataset/G_7.5_S_50---Iters-latest_Alpha-0.7.jpg) <br />
 Alpha 1.0 [8103_EDLoRA_thanos_Cmix_B4_Repeat250](https://huggingface.co/camenduru/Mix-of-Show/blob/main/single_concept_model/8103_EDLoRA_thanos_Cmix_B4_Repeat250/visualization/PromptDataset/G_7.5_S_50---Iters-latest_Alpha-1.0.jpg) <br />
 
-## Sponsor
+## 🏢 Sponsor
 https://modelslab.com
