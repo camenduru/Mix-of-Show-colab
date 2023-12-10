@@ -29,7 +29,7 @@ https://arxiv.org/abs/2305.18292
 ## 🌐 Page
 https://showlab.github.io/Mix-of-Show/
 
-## 📦 Models
+## 📦 Model
 https://huggingface.co/camenduru/Mix-of-Show/tree/main/single_concept_model
 
 ## 🖼 Output
